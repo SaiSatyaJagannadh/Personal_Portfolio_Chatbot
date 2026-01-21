@@ -7,7 +7,8 @@ from pypdf import PdfReader
 import gradio as gr
 
 
-#cmd+shift+p--> search git clone--> select the repo we created in guthub p-->
+
+#cmd+shift+p--> search git clone--> select the repo we created in guthub p-->install
 
 load_dotenv(override=True)
 
